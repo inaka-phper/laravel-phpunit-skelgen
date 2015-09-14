@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/inaka-skelgen":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/inaka-skelgen","hostpath":"C:/Users/phper/Documents/github/laravel-phpunit-skelgen/Inaka.Skelgen","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/phper/Documents/github/laravel-phpunit-skelgen/Inaka.Skelgen","disabled":false}}}
